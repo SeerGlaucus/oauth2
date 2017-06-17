@@ -11,3 +11,5 @@
 * 分别启动resourceServer，authServer，client工程
 * 访问localhsot:8080/client
 
+> 建议优先理解一下阮老师的文章[理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
